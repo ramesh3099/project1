@@ -1,5 +1,6 @@
 def Content():
-	
-	print("thiis is a file")
+	a=10
+	print("this is a file")
 	print("hi how r u")
+	print( "a value is:",a)
 content()
