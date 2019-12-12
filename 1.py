@@ -1,1 +1,4 @@
-print("thiis is a file")
+def Content():
+	
+	print("thiis is a file")
+content()
